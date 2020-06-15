@@ -1,2 +1,5 @@
-# zshconfig
-configuracion de zsh y vim
+Zshconfig
+=====
+
+## Configuracion de zsh y vim
+zsh.sh + vim.sh
