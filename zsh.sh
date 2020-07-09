@@ -38,5 +38,5 @@ git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 echo "copiando files"
 
-cp -r ~/zshconfig/.vimrc ~/root/
-cp -r ~/zshconfig/.zshrc ~/root/
+cp -r /root/zshconfig/.vimrc /root/
+cp -r /root/zshconfig/.zshrc /root/
