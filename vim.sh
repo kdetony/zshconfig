@@ -1,5 +1,7 @@
 #!/bin/bash
 
+yum -y install wget git
+
 mkdir -p ~/.vim/colors
 
 wget https://www.vim.org/scripts/download_script.php?src_id=6657 -O ~/.vim/colors/wombat.vim
